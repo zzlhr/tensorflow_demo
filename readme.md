@@ -4,5 +4,5 @@
 - [变量](./demo02.py)
 - [Fetch & Feed](./demo03.py)
 - [简单示例](./demo04.py)
-- [线性回归](./demo05.py)
+- [非线性回归](./demo05.py)
 

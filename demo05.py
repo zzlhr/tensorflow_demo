@@ -1,4 +1,4 @@
-# 线性回归
+# 非线性回归
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
