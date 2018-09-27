@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/lhr/tensorflow_demo/demo06/model/model_save"
+all_model_checkpoint_paths: "/Users/lhr/tensorflow_demo/demo06/model/model_save"
